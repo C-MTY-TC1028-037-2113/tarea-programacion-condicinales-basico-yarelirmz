@@ -1,3 +1,4 @@
+#06BMI
 def main():
     #escribe tu código abajo de esta línea
     peso = float(input("Peso en kg: "))

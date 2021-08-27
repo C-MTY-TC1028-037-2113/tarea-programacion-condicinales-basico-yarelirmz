@@ -1,3 +1,4 @@
+#04Maximo
 def main():
     #escribe tu código abajo de esta línea
     num1 = int(input("Ingresa el primer número: "))

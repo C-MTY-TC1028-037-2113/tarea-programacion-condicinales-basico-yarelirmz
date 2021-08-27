@@ -1,4 +1,4 @@
-
+#identifica signo
 def main():
     #escribe tu código abajo de esta línea
     numero = int(input("Dame un número: "))

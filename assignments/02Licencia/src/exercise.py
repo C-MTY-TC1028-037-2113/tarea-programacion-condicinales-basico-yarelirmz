@@ -1,4 +1,4 @@
-
+#02Licencia
 def main():
     edad = int(input("Ingresa tu edad: "))
     if edad>0:
